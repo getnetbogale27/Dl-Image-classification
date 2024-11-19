@@ -9,3 +9,4 @@ boruta
 tensorflow 
 opencv-python-headless
 pillow
+fastai
